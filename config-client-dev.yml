@@ -1,2 +1,1 @@
- info: 
-   profile: dev
+from: git-prod-1.0
